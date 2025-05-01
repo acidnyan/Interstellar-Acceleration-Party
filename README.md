@@ -88,7 +88,7 @@
 
 このレポジトリは以下のディレクトリで構成されています。  
 思想・政策・技術・実装・検証・視覚化が一体となった「文明設計のためのテンプレート」です。
-
+```plaintext
 Interstellar-Acceleration-Party/
 ├── README.md                  ← 本プロジェクトの綱領と基本理念
 ├── manifesto/                 ← ビジョン・原則・ミッション・ガバナンス設計など綱領的文書群
@@ -98,7 +98,7 @@ Interstellar-Acceleration-Party/
 ├── roadmap/                   ← 10年スパンでの制度導入・インフラ構築ステップを年度別に整理
 ├── docs/                      ← 構成図・タイムラインなどの視覚資料（PNG/PDFなど）
 └── LICENSE                    ← クリエイティブ・コモンズまたはOSS向けライセンス
-
+```
 ---
 
 ## 🪐 License
