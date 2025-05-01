@@ -1,4 +1,4 @@
-# 🚀 Interstellar Acceleration Party - 星間加速党
+# 🚀 Interstellar Acceleration Party - 星間加速党綱領
 
 > **10年で人類をカルダシェフ Type I 文明へ。**  
 > 宇宙規模の産業・エネルギー・知性を開花させ、  
