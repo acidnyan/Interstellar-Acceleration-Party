@@ -97,7 +97,7 @@ Interstellar-Acceleration-Party/
 ├── feasibility/               ← 構想の技術的・制度的・経済的実現可能性に関する分析レポート
 ├── roadmap/                   ← 10年スパンでの制度導入・インフラ構築ステップを年度別に整理
 ├── docs/                      ← 構成図・タイムラインなどの視覚資料（PNG/PDFなど）
-└── LICENSE                    ← クリエイティブ・コモンズまたはOSS向けライセンス
+└── LICENSE                    ← MITライセンス
 ```
 ---
 
