@@ -103,7 +103,7 @@ Interstellar-Acceleration-Party/
 
 ## 🪐 License
 
-This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+This project is licensed under the MIT License, see the LICENSE.txt file for details.  
 自由に複製・改変・再配布してかまいません。クレジット表示をお願いします。
 
 ---
