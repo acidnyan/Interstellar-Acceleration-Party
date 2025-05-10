@@ -91,23 +91,7 @@
 
 ---
 
-## 9. KPI JSON (例)
-
-```json
-{
-  "year": 2028,
-  "primary_balance_trillion_jpy": -260,
-  "debt_to_gdp": 300,
-  "bi_coverage_ratio": 0.34,
-  "agi_tax_rate": 0.05
-}
-```
-
-> `/data/kpi/fiscal_*.json` に年次出力し、CI でスキーマ検証。
-
----
-
-## 10. 実装ガバナンス
+## 9. 実装ガバナンス
 
 * **財政ルール法**: 上記の自動安定化トリガーを成文法化。
 * **AI‑MPC ダッシュボード**: GitHub で毎週アップデート、誰でもシミュレーション可能。
